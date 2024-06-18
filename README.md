@@ -14,7 +14,9 @@ https://github.com/wukongdaily/OrangePiShell
 
 ## 在工作流的输入框里输入镜像名称（注意检查句首不要有空格）
 
-    小雅alist和小雅tvbox 逗号是英文版逗号
+  小雅alist和小雅tvbox 逗号是英文版逗号
 ```
 xiaoyaliu/alist,haroldli/xiaoya-tvbox
 ```
+![第一步](https://github.com/zyhw/DockerTarBuilder/blob/dc3cd17c9dd4efd9cf1fdea4a5816866a3dea564/Snipaste_2024-06-18_08-32-31.png)
+![第二步](https://github.com/zyhw/DockerTarBuilder/blob/dc3cd17c9dd4efd9cf1fdea4a5816866a3dea564/Snipaste_2024-06-18_08-29-46.png)
