@@ -11,3 +11,10 @@ https://wkdaily.cpolar.cn/archives/gc
 
 ## 相关项目
 https://github.com/wukongdaily/OrangePiShell
+
+## 在工作流的输入框里输入镜像名称（注意检查句首不要有空格）
+
+    小雅alist和小雅tvbox 逗号是英文版逗号
+```
+xiaoyaliu/alist,haroldli/xiaoya-tvbox
+```
